@@ -1,0 +1,7 @@
+This directory contains a series of scripts to creat a movie website.
+Run python entertainment_center.py to create a website with top movies.
+
+media.py - defines the movie class
+fresh_tomatoes.py - creates the movie website
+entertainment_center.py - creates instances of the movie class for each movie 
+  that will be displayed on the movie website
